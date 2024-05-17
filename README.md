@@ -1,2 +1,1 @@
-# GDSC-Hackathon
-respository for gdsc hackathon
+Just a repository for javascript
